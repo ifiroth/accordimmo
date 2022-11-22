@@ -1,0 +1,19 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+caption Carte Mentale d'AccordImmo
+title Accord Immo title
+
+*[#LightGreen] root
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+**[#LightBlue] Ubuntu
+
+header
+My super header
+endheader
+@endmindmap

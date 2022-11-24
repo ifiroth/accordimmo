@@ -4,38 +4,39 @@
 caption Carte Mentale d'AccordImmo
 title Accord Immo title
 
-skinparam maxMessageSize 10
-
 *[#LightGreen] root
+**[#Yellow] Footer
+***[#LightGreen] Contact
+***[#LightGreen] Blog
+**** Articles
+**** Biens vendus
+**** Lexique
+***[#LightGreen] Vivre sur Avignon
+**** Avignon
+**** Vaucluse
+**** Gard
+**** Bouches-du-Rhône
 **[#LightBlue] <s>Votre agence</s> => L'agence
 ***[#Orange] Avis vérifiés
 ***[#Orange] Nouveau Job
 ***_ D'autres liens (sous forme de section) \nvers les différentes parties du site
+
+left side
+
 **[#LightBlue] <s>Votre Logement</s> => Rechercher un bien
 *** <s>Votre maison</s> => Maison
 *** <s>Votre appartement</s> => Appartement
 *** <s>Votre location</s> => Location
 *** <s>Vos locaux</s> => Commerce
-**[#LightBlue] Stratégie de vente
+**[#LightBlue] <s>Stratégie de vente</s> => Estimation
 *** Estimation vente
 *** Estimation locative
 *** Viager
 **[#LightBlue] <s>Vos avis</s>
 **[#LightBlue] <s>Votre nouveau job</s>
 
-left side
-
 **[#LightBlue] <s>Liste VIP</s>
 ***_ Sous catégories de bien #Featured
-**[#LightBlue] Blog
-*** Articles
-*** Biens vendus
-*** Lexique
-**[#LightBlue] Contact
-**[#LightBlue] Vivre sur Avignon
-*** Avignon
-*** Vaucluse
-*** Gard
-*** Bouches-du-Rhône
+
 
 @endmindmap
